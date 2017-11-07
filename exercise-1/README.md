@@ -1,4 +1,5 @@
 # Exercise-1
+## This assignment allows us to experiment with branches and merging
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 For this exercise, complete the following steps:
